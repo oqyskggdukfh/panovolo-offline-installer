@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-360+Video+Editing-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-360+Video-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 PANOVOLO Free Installer** — PANOVOLO is a 360° video editing application for stitching and editing spherical video from multi-camera 360° camera rigs. Works without internet access, no account required. Full offline installation.
+**💻 PANOVOLO Free Installer** — PANOVOLO is a professional post-production tool for 360° video creators. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About PANOVOLO
 
-PANOVOLO is a 360° video editing application for stitching and editing spherical video from multi-camera 360° camera rigs. Process footage from GoPro Fusion, Insta360, and custom multi-camera setups, apply color correction, and export equirectangular video for VR headsets and 360° video platforms. PANOVOLO targets 360° video creators who need professional stitching control.
+PANOVOLO is a professional post-production tool for 360° video creators. It enables color grading, stabilization, horizon leveling, and stitching adjustments for 360° and VR content — bridging the gap between raw 360° footage and polished virtual reality experiences.
 
 ---
 
 ## ❌ Problem: PANOVOLO is hard to access
 
-- **Specialized Use** — Only useful for 360° video production workflows
-- **Hardware Dependency** — Designed for specific multi-camera rig footage
-- **Commercial License** — Professional pricing for specialized video tool
-- **Competition** — Camera manufacturers provide free stitching software for their products
+- **Expensive License** — Professional pricing targets VR studios rather than individual creators
+- **Niche Market** — Only useful for 360° video production workflows
+- **Hardware Requirements** — Requires powerful hardware for real-time 360° video playback
+- **Limited Ecosystem** — Smaller community and fewer integrations than general video editors
 
 ---
 
@@ -121,7 +121,7 @@ PANOVOLO is a 360° video editing application for stitching and editing spherica
 
 ---
 
-**PANOVOLO Free Installer** — PANOVOLO is a 360° video editing application for stitching and editing spherical video from multi-camera 360° camera rigs. Install without internet connection today!
+**PANOVOLO Free Installer** — PANOVOLO is a professional post-production tool for 360° video creators. Install without internet connection today!
 
 <div align="center">
 
